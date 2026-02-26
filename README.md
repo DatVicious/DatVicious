@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DatVicious
-- 🌱 I’m currently learning web development or anything interesting
+- 🌱 I’m currently learning anything that interests me: Telegram Bots for the moment 🤖
 - 💞️ I’m looking to collaborate on nothing at the moment
 
 <!---
